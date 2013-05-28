@@ -1,8 +1,6 @@
 ---
 title: Select a file in Finder through the Terminal
 permalink: "236550541965135873"
-File: "236550541965135873"
-URL: "236550541965135873"
 layout: post
 ---
 

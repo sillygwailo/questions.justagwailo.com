@@ -1,8 +1,6 @@
 ---
 title: At pubs can I watch baseball games with audio in Vancouver?
 permalink: "195214510502576128"
-URL: "195214510502576128"
-File: "195214510502576128"
 layout: post
 ---
 

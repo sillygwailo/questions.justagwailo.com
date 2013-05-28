@@ -1,8 +1,6 @@
 ---
 title: Twitter accounts that natively retweet based on a subject like @vantransient
 permalink: "3857078681600"
-File: "3857078681600"
-URL: "3857078681600"
 layout: post
 ---
 

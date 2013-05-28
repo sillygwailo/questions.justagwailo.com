@@ -1,8 +1,6 @@
 ---
 title: Who blogs and/or tweets but does not work at a computer?
 permalink: "170309365721612288"
-URL: "170309365721612288"
-File: "170309365721612288"
 layout: post
 ---
 

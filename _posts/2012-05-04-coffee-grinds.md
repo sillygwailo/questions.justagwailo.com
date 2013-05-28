@@ -1,8 +1,6 @@
 ---
 title: Which pre-ground coffee should I buy now that I have a French press?
 permalink: "198455516530356225"
-URL: "198455516530356225"
-File: "198455516530356225"
 layout: post
 ---
 

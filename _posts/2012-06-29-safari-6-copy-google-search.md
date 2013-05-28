@@ -1,8 +1,6 @@
 ---
 title: How do I copy the link to a Google search made in the in Safari 6 (Mac) address bar?
 permalink: "218807553289760768"
-File: "218807553289760768"
-URL: "218807553289760768"
 layout: post
 ---
 
