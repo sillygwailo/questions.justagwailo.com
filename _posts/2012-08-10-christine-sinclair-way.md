@@ -1,8 +1,6 @@
 ---
 title: Which street is Burnaby going to rename to Christine Sinclair Way?
 permalink: "233732208773439488"
-File: "233732208773439488"
-URL: "233732208773439488"
 layout: post
 ---
 

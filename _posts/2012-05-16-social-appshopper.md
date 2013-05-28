@@ -1,8 +1,6 @@
 ---
 title: Is there a 'social' AppShopper?
 permalink: "202807616311791617"
-URL: "202807616311791617"
-File: "202807616311791617"
 layout: post
 ---
 

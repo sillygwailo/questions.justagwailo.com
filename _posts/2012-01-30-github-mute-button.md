@@ -1,8 +1,6 @@
 ---
 title: GitHub mute button
 permalink: "164127954002128896"
-File: "164127954002128896"
-URL: "164127954002128896"
 layout: post
 ---
 

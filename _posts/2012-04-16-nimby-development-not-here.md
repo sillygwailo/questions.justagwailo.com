@@ -1,8 +1,6 @@
 ---
 title: Development, but not this project
 permalink: "191958704139145216"
-URL: "191958704139145216"
-File: "191958704139145216"
 layout: post
 ---
 

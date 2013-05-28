@@ -1,8 +1,6 @@
 ---
 title: What can the web browser wars teach the ebook format warriors?
 permalink: "190654394637893632"
-URL: "190654394637893632"
-File: "190654394637893632"
 layout: post
 ---
 

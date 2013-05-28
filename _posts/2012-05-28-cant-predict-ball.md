@@ -1,8 +1,6 @@
 ---
 title: Are there any Twitter accounts for "Can't predict hockey", "Can't predict football" like @cantpredictball?
 permalink: "207243615506935808"
-URL: "207243615506935808"
-File: "207243615506935808"
 layout: post
 ---
 
