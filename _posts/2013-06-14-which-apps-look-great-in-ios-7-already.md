@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Which apps look greate in iOS 7 already?"
+title: "Which apps look great in iOS 7 already?"
 permalink: "345603995974381569"
 ---
 
