@@ -24,6 +24,7 @@
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/assets/js/geopattern/js/geopattern.min.js"></script>
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
@@ -54,5 +55,11 @@
   <div class="container">
       {{ content }}
     </div>
+    <script>
+    var pattern = GeoPattern.generate('{{ page.title | xml_escape | textilize }}');
+ $(document).ready(function() {
+    $('.navbar-inner').css('background-image', pattern.toDataUrl());
+  });
+    </script>
   </body>
 </html>
