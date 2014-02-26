@@ -1,6 +1,6 @@
 ---
 title: List of nouns that are exceptions to indefinite articles (like 'a' and 'an')
-permalink: "382218978380087296"
+permalink: "388385164075626496"
 layout: post
 ---
 
