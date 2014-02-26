@@ -1,6 +1,3 @@
-[submodule "assets/js/lunr"]
-	path = assets/js/lunr
-	url = git://github.com/olivernn/lunr.js.git
 [submodule "assets/js/geopattern"]
 	path = assets/js/geopattern
 	url = https://github.com/btmills/geopattern.git
