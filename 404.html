@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/assets/js/geopattern/js/geopattern.min.js"></script>
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
@@ -45,6 +46,12 @@
 
 <p>The page you&rsquo;re looking for could not be found. All of the questions are listed on <a href="/">the home page</a>.</p>
 
+    <script>
+      var pattern = GeoPattern.generate('{{ page.title | xml_escape | textilize }}');
+      $(document).ready(function() {
+      $('.navbar-inner').css('background-image', pattern.toDataUrl());
+    });
+    </script>
     </div>
   </body>
 </html>
