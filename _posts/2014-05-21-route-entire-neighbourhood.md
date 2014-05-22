@@ -2,7 +2,7 @@
 title: A tool that plots out a route on all streets of a neighbourhood?
 permalink: "469187281484406784"
 layout: post
-description: Is there software that will plot out a walking/biking route that sees every street of a neighbourhood? Like “All of Buckman in a Day”?
+description: Is there software that will plot out a walking/biking route that sees every street of a neighbourhood?
 image: http://residentresidency.org/wp-content/uploads/2014/05/buckman-map-final.jpg
 ---
 
