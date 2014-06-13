@@ -1,9 +1,9 @@
 ---
-title: Feed with one random item from another RSS feed?
-permalink: "440913960754106368"
+title: A text editor that flags clichés and puns?
+permalink: "440515680496939008"
 layout: post
-description: Is there a service (or Yahoo! Pipe) that takes a high-frequency RSS feed and makes a feed with one random item from the previous day?
+description: Is there a text editor that flags clichés and puns and can re-word sentences out of the first-person singular but still in the active voice?
 ---
 
-<blockquote class="twitter-tweet" lang="en"><p>Is there a service (or Yahoo! Pipe) that takes a high-frequency RSS feed and makes a feed with one random item from the previous day?</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/statuses/440913960754106368">March 4, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>Is there a text editor that flags clichés and puns and can re-word sentences out of the first-person singular but still in the active voice?</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/statuses/440515680496939008">March 3, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
