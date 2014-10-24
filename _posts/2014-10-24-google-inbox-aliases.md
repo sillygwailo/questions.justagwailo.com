@@ -1,6 +1,6 @@
 ---
 title: Can I reply/compose with a Gmail alias in Google Inbox?
-permalink: "489511515188256768"
+permalink: "LUHt6bfPt47"
 layout: post
 description: Can I reply to an email in Inbox with an alias I have setup un my Gmail settings? Signs currently point to no, but I'd use Inbox for composing if it did.
 ---

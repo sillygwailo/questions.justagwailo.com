@@ -1,6 +1,6 @@
 ---
 title: Google Inbox product news
-permalink: "489511515188256768"
+permalink: "2T27z2k42rz"
 layout: post
 description: Where's the best place to keep up on news about Google Inbox?
 ---
