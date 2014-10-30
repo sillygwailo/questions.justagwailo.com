@@ -59,6 +59,11 @@
     var pattern = GeoPattern.generate('{{ page.title | xml_escape | textilize }}');
  $(document).ready(function() {
     $('.navbar-inner').css('background-image', pattern.toDataUrl());
+    $('.navbar .nav > li > a, .navbar .brand').hover(function() {
+      $(this).css('background-color', pattern.color);
+    }, function() {
+      $(this).css('background-color', 'transparent')
+    });
   });
     </script>
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
