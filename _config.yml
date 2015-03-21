@@ -3,9 +3,9 @@ url: http://questions.justagwailo.com
 description: "Questions asked on Twitter and elsewhere, sometimes with answers."
 markdown: rdiscount
 permalink: /:year/:month/:day/:title
-main_title: "Just a Gwai Lo: Questions"
 gems:
   - jekyll-sitemap
 rdiscount:
   extensions: [smart]
-url: http://questions.justagwailo.com/
+exclude:
+  - "node_modules"
