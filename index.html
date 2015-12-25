@@ -10,7 +10,9 @@ title: "Just a Gwai Lo: Questions"
       <div class="related">
         <ul>
           {% for post in site.posts %}
-          <li>{% for tag in post.tags %}<a href="/{{tag | downcase}}/"><img src="/assets/{{tag}}.png" alt="{{tag}}" /></a> {% endfor %}<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.permalink }}/">{{ post.title }}</a></li>
+          <li>{% for tag in post.tags %}<a href="/{{tag | downcase}}/"><img src="/assets/{{tag}}.png" alt="{{tag}}" /></a> {% endfor %}<time datetime='{{post.date | date: "%Y-%m-%d"}}'>{% assign d = post.date | date: "%-d" %}
+{{ post.date | date: "%B" }}
+{% case d %}{% when "1" or "21" or "31" %}{{ d }}st{% when "2" or "22" %}{{ d }}nd{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}th{% endcase %}, {{ post.date | date: "%Y" }}</time>: <a href="{{ post.permalink }}/">{{ post.title }}</a></li>
           {% endfor %}
         </ul>
       </div>
