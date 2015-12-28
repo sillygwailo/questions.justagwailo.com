@@ -1,4 +1,19 @@
 module Jekyll
+  class TagFeed < Page
+    def initialize(site, base, dir, tag)
+      @site = site
+      @base = base
+      @dir = dir
+      @name = "feed.xml"
+
+      process(@name)
+      read_yaml(File.join(base, '_layouts'), 'tag_feed.xml')
+      data['tag'] = tag
+
+      data['title'] = "#{tag}"
+      data['filterByTag'] = "#{tag}"
+    end
+  end
   class TagIndex < Page
     def initialize(site, base, dir, tag)
       @site = site
@@ -27,7 +42,11 @@ module Jekyll
       index = TagIndex.new(site, site.source, dir.downcase, tag)
       index.render(site.layouts, site.site_payload)
       index.write(site.dest)
+      feed = TagFeed.new(site, site.source, dir.downcase, tag)
+      feed.render(site.layouts, site.site_payload)
+      feed.write(site.dest)
       site.pages << index
+      site.pages << feed
     end
   end
   	end
