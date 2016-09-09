@@ -1,8 +1,6 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /:year/:month/:day/:title
 main_title: "Just a Gwai Lo: Questions"
 gems:
   - jekyll-sitemap
-rdiscount:
-  extensions: [smart]
 url: http://questions.justagwailo.com/
