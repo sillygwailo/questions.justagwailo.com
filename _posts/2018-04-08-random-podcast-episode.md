@@ -1,6 +1,6 @@
 ---
 title: Listen to a random episode from a podcast
-permalink: "872105074767560708"
+permalink: "983054664747900931"
 layout: post
 description: Is there an app that will randomly choose a podcast for me to listen to?
 ---
