@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: /:year/:month/:day/:title
 main_title: "Just a Gwai Lo: Questions"
-gems:
+plugins:
   - jekyll-sitemap
 url: http://questions.justagwailo.com/
