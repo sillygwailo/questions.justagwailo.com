@@ -3,4 +3,4 @@ permalink: /:year/:month/:day/:title
 main_title: "Just a Gwai Lo: Questions"
 plugins:
   - jekyll-sitemap
-url: https://questions.justagwailo.com/
+url: https://questions.justagwailo.com
