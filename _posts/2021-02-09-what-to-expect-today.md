@@ -1,5 +1,5 @@
 ---
-title: What to Expect Today
+title: What to expect today
 permalink: "1359361335650381824"
 layout: post
 description: How would you go about setting up a “what to expect today” reminder for any given day in the future?

@@ -1,5 +1,5 @@
 ---
-title: RSS aggregator for Static Site Generators?
+title: RSS aggregator for static site generators?
 permalink: "1354481286614802445"
 layout: post
 description: Is there a static site generator that will pull in RSS feeds and display the items, with links back to the original items, on the site? Like Drupal’s Aggregator module, but using something like Jekyll?
