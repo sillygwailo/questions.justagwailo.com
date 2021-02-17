@@ -1,6 +1,6 @@
 ---
 title: Recycling an electric kettle
-permalink: ''
+permalink: '1315001804455895041'
 layout: post
 description: Any ideas on how I’d recycle an electric kettle that is now inoperative?
 ---
