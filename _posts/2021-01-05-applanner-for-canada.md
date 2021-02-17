@@ -1,6 +1,6 @@
 ---
-title: @AP_Planner for Canada
-permalink: ''
+title: AP Planner for Canada
+permalink: '1346515719798878212'
 layout: post
 description: s there a Twitter account like @AP_Planner, but for Canada?
 ---

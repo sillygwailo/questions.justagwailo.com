@@ -1,6 +1,6 @@
 ---
 title: Location of fireworks in Toronto
-permalink: ''
+permalink: '1315487115279556608'
 layout: post
 description: Is there an email list announcing the locations of where fireworks will be lit in Downtown Toronto?
 ---
