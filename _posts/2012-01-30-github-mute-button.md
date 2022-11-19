@@ -4,5 +4,6 @@ permalink: "164127954002128896"
 layout: post
 ---
 
-<blockquote class="twitter-tweet"><p>Is there a mute button for GitHub repositories? I’d like to continuously watch, but only see commits in the feeds every so often.</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/status/164127954002128896" data-datetime="2012-01-30T23:28:48+00:00">January 30, 2012</a></blockquote>
-<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Is there a mute button for GitHub repositories? I’d like to continuously watch, but only see commits in the feeds every so often.
+
+<img src="/images/twitter.png" width="12" /> [Mon Jan 30 23:28:48 +0000 2012](https://twitter.com/sillygwailo/status/164127954002128896)
