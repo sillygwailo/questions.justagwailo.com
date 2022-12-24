@@ -4,8 +4,6 @@ permalink: "218807553289760768"
 layout: post
 ---
 
+In Safari 6, how do I link to a Google search made from the address bar?
 
-
-<blockquote class="twitter-tweet"><p>In Safari 6, how do I link to a Google search made from the address bar?</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/status/218807553289760768" data-datetime="2012-06-29T20:46:00+00:00">June 29, 2012</a></blockquote>
-<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-	
+<img src="images/twitter.png" width="12" /> [Fri Jun 29 20:46:00 +0000 2012](https://twitter.com/sillygwailo/status/218807553289760768)
