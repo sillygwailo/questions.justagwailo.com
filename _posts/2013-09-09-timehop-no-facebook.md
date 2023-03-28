@@ -6,5 +6,6 @@ description: Is there a Timehop clone that doesn't require Facebook Login? I cou
 ---
 
 
-<blockquote class="twitter-tweet"><p>Is there a Timehop clone that doesn&#39;t require Facebook Login? I could write one, but it wouldn&#39;t scale.</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/statuses/377217855156002816">September 9, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Is there a Timehop clone that doesn't require Facebook Login? I could write one, but it wouldn't scale.
+
+<img src="images/twitter.png" width="12" /> [Mon Sep 09 23:51:59 +0000 2013](https://twitter.com/sillygwailo/status/377217855156002816)

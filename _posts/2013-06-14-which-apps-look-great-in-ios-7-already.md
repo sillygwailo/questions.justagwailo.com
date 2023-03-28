@@ -4,5 +4,6 @@ title: "Which apps look great in iOS 7 already?"
 permalink: "345603995974381569"
 ---
 
-<blockquote class="twitter-tweet"><p>Which apps look great in iOS 7 already?</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/statuses/345603995974381569">June 14, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Which apps look great in iOS 7 already?
+
+<img src="images/twitter.png" width="12" /> [Fri Jun 14 18:09:48 +0000 2013](https://twitter.com/sillygwailo/status/345603995974381569)

@@ -4,5 +4,6 @@ layout: post
 permalink: "345330071621476353"
 ---
 
-<blockquote class="twitter-tweet"><p>Does public shaming work?</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/statuses/345330071621476353">June 14, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Does public shaming work?
+
+<img src="images/twitter.png" width="12" /> [Fri Jun 14 00:01:19 +0000 2013](https://twitter.com/sillygwailo/status/345330071621476353)

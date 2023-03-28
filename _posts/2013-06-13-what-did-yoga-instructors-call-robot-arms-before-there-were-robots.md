@@ -4,5 +4,6 @@ layout: post
 permalink: "345383597278130176"
 ---
 
-<blockquote class="twitter-tweet"><p>What did yoga instructors call “robot arms” before there were robots?</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/statuses/345383597278130176">June 14, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+What did yoga instructors call “robot arms” before there were robots?
+
+<img src="images/twitter.png" width="12" /> [Fri Jun 14 03:34:01 +0000 2013](https://twitter.com/sillygwailo/status/345383597278130176)
