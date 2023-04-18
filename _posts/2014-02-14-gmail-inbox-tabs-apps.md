@@ -5,5 +5,6 @@ layout: post
 description: Do any of the “Inbox Zero” apps (like Triage, Dispatch, Mailbox, Boxer) support Gmail inbox tabs? Those 4 only have a unified inbox.
 ---
 
-<blockquote class="twitter-tweet" lang="en"><p>Do any of the “Inbox Zero” apps (like Triage, Dispatch, Mailbox, Boxer) support Gmail inbox tabs? Those 4 only have a unified inbox.</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/statuses/434408315599069185">February 14, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Do any of the “Inbox Zero” apps (like Triage, Dispatch, Mailbox, Boxer) support Gmail inbox tabs? Those 4 only have a unified inbox.
+
+<img src="/images/twitter.png" width="12" /> [Fri Feb 14 19:26:28 +0000 2014](https://twitter.com/sillygwailo/status/434408315599069185)

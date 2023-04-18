@@ -4,5 +4,6 @@ permalink: "382218978380087296"
 layout: post
 ---
 
-<blockquote class="twitter-tweet"><p>When was the last time two last-place baseball teams, mathematically eliminated from the playoffs, played a make-up game in September?</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/statuses/382218978380087296">September 23, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+When was the last time two last-place baseball teams, mathematically eliminated from the playoffs, played a make-up game in September?
+
+<img src="images/twitter.png" width="12" /> [Mon Sep 23 19:04:40 +0000 2013](https://twitter.com/sillygwailo/status/382218978380087296)

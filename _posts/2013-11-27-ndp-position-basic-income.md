@@ -5,5 +5,6 @@ layout: post
 description: Where does the federal NDP stand on basic income?
 ---
 
-<blockquote class="twitter-tweet" lang="en"><p>Where does the federal NDP stand on basic income? I don&#39;t see it in <a href="http://t.co/HRe8CxHK29">http://t.co/HRe8CxHK29</a> When&#39;s their next convention?</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/statuses/405771121649152000">November 27, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Where does the federal NDP stand on basic income? I don't see it in http://xfer.ndp.ca/2013/policybook/2013-04-17-PolicyBook_E.pdf When's their next convention?
+
+<img src="/images/twitter.png" width="12" /> [Wed Nov 27 18:52:28 +0000 2013](https://twitter.com/sillygwailo/status/405771121649152000)
