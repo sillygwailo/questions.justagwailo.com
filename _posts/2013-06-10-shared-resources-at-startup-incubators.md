@@ -2,6 +2,7 @@
 title: How prevalent are employees that are shared resources for the startups at incubators/accelerators?
 permalink: "344196925026869248"
 layout: post
+image: /images/readmill-user-story-screenshot-these-days-incubator-question.png
 ---
 
 I have a question about employees of startup incubators/accelerators at https://readmill.com/sillygwailo/reads/these-days/highlights/eyg2vw #24hourbookclub
