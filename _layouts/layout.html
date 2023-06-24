@@ -54,7 +54,7 @@
       {{ content }}
     </div>
     <script>
-    var pattern = GeoPattern.generate('{{ page.title | xml_escape | textilize }}');
+    var pattern = GeoPattern.generate('{{ page.title | escape | textilize }}');
  $(document).ready(function() {
     $('.navbar-inner').css('background-image', pattern.toDataUrl());
     $('.navbar .nav > li > a, .navbar .brand').hover(function() {
