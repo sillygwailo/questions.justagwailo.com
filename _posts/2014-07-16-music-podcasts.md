@@ -5,4 +5,10 @@ layout: post
 description: Requirements&#58; 1. 95% music, 5% talking. 2. All genres, not just your favourite. 3. Somewhat adventurous.
 ---
 
-<blockquote class="twitter-tweet" lang="en"><p>What are some good music podcasts? Requirements:&#10;&#10;1. 95% music, 5% talking.&#10;2. All genres, not just your favourite.&#10;3. Somewhat adventurous.</p>&mdash; Richard Eriksson (@sillygwailo) <a href="https://twitter.com/sillygwailo/statuses/489511515188256768">July 16, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+What are some good music podcasts? Requirements:
+
+1. 95% music, 5% talking.
+2. All genres, not just your favourite.
+3. Somewhat adventurous.
+
+<img src="images/twitter.png" width="12" /> [Wed Jul 16 20:46:54 +0000 2014](https://twitter.com/sillygwailo/status/489511515188256768)
